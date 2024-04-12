@@ -1,0 +1,14 @@
+D:\Nextwave industries\english\Demo\c#\UHFReader288Demo_eng V6.1\obj\x64\Debug\UHFReader288Demo.csproj.AssemblyReference.cache
+D:\Nextwave industries\english\Demo\c#\UHFReader288Demo_eng V6.1\obj\x64\Debug\UHFReader288Demo.csproj.ResolveComReference.cache
+D:\Nextwave industries\english\Demo\c#\UHFReader288Demo_eng V6.1\obj\x64\Debug\UHFReader288Demo.ConfigForm.resources
+D:\Nextwave industries\english\Demo\c#\UHFReader288Demo_eng V6.1\obj\x64\Debug\UHFReader288Demo.Form1.resources
+D:\Nextwave industries\english\Demo\c#\UHFReader288Demo_eng V6.1\obj\x64\Debug\UHFReader288Demo.LoginForm.resources
+D:\Nextwave industries\english\Demo\c#\UHFReader288Demo_eng V6.1\obj\x64\Debug\UHFReader288Demo.ChangeIPdlg.resources
+D:\Nextwave industries\english\Demo\c#\UHFReader288Demo_eng V6.1\obj\x64\Debug\UHFReader288Demo.fNhSetDlg.resources
+D:\Nextwave industries\english\Demo\c#\UHFReader288Demo_eng V6.1\obj\x64\Debug\UHFReader288Demo.fPhSetDlg.resources
+D:\Nextwave industries\english\Demo\c#\UHFReader288Demo_eng V6.1\obj\x64\Debug\UHFReader288Demo.fSetdlg.resources
+D:\Nextwave industries\english\Demo\c#\UHFReader288Demo_eng V6.1\obj\x64\Debug\UHFReader288Demo.locateForm.resources
+D:\Nextwave industries\english\Demo\c#\UHFReader288Demo_eng V6.1\obj\x64\Debug\UHFReader288Demo.ParamSetting.resources
+D:\Nextwave industries\english\Demo\c#\UHFReader288Demo_eng V6.1\obj\x64\Debug\UHFReader288Demo.Properties.Resources.resources
+D:\Nextwave industries\english\Demo\c#\UHFReader288Demo_eng V6.1\obj\x64\Debug\UHFReader288Demo.csproj.GenerateResource.cache
+D:\Nextwave industries\english\Demo\c#\UHFReader288Demo_eng V6.1\obj\x64\Debug\UHFReader288Demo.csproj.CoreCompileInputs.cache

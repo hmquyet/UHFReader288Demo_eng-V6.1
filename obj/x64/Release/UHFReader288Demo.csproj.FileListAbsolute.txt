@@ -1,0 +1,47 @@
+D:\english\Demo\c#\UHFReader288Demo_eng V6.1\bin\x64\Release\UHFReader288Demo.exe
+D:\english\Demo\c#\UHFReader288Demo_eng V6.1\bin\x64\Release\UHFReader288Demo.pdb
+D:\english\Demo\c#\UHFReader288Demo_eng V6.1\obj\x64\Release\UHFReader288Demo.csproj.AssemblyReference.cache
+D:\english\Demo\c#\UHFReader288Demo_eng V6.1\obj\x64\Release\UHFReader288Demo.ConfigForm.resources
+D:\english\Demo\c#\UHFReader288Demo_eng V6.1\obj\x64\Release\UHFReader288Demo.Form1.resources
+D:\english\Demo\c#\UHFReader288Demo_eng V6.1\obj\x64\Release\UHFReader288Demo.LoginForm.resources
+D:\english\Demo\c#\UHFReader288Demo_eng V6.1\obj\x64\Release\UHFReader288Demo.ChangeIPdlg.resources
+D:\english\Demo\c#\UHFReader288Demo_eng V6.1\obj\x64\Release\UHFReader288Demo.fNhSetDlg.resources
+D:\english\Demo\c#\UHFReader288Demo_eng V6.1\obj\x64\Release\UHFReader288Demo.fPhSetDlg.resources
+D:\english\Demo\c#\UHFReader288Demo_eng V6.1\obj\x64\Release\UHFReader288Demo.fSetdlg.resources
+D:\english\Demo\c#\UHFReader288Demo_eng V6.1\obj\x64\Release\UHFReader288Demo.locateForm.resources
+D:\english\Demo\c#\UHFReader288Demo_eng V6.1\obj\x64\Release\UHFReader288Demo.ParamSetting.resources
+D:\english\Demo\c#\UHFReader288Demo_eng V6.1\obj\x64\Release\UHFReader288Demo.Properties.Resources.resources
+D:\english\Demo\c#\UHFReader288Demo_eng V6.1\obj\x64\Release\UHFReader288Demo.csproj.GenerateResource.cache
+D:\english\Demo\c#\UHFReader288Demo_eng V6.1\obj\x64\Release\UHFReader288Demo.csproj.CoreCompileInputs.cache
+D:\english\Demo\c#\UHFReader288Demo_eng V6.1\obj\x64\Release\UHFReader288Demo.csproj.CopyComplete
+D:\english\Demo\c#\UHFReader288Demo_eng V6.1\obj\x64\Release\UHFReader288Demo.exe
+D:\english\Demo\c#\UHFReader288Demo_eng V6.1\obj\x64\Release\UHFReader288Demo.pdb
+D:\english\Demo\c#\UHFReader288Demo_eng V6.1\obj\x64\Release\UHFReader288Demo.csproj.ResolveComReference.cache
+D:\english\Demo\c#\UHFReader288Demo_eng V6.1\bin\x64\Release\UHFReader288Demo.exe.manifest
+D:\english\Demo\c#\UHFReader288Demo_eng V6.1\bin\x64\Release\UHFReader288Demo.application
+D:\english\Demo\c#\UHFReader288Demo_eng V6.1\obj\x64\Release\UHFReader288Demo.exe.manifest
+D:\english\Demo\c#\UHFReader288Demo_eng V6.1\obj\x64\Release\UHFReader288Demo.application
+D:\Nextwave industries\english\Demo\c#\UHFReader288Demo_eng V6.1\obj\x64\Release\UHFReader288Demo.csproj.AssemblyReference.cache
+D:\Nextwave industries\english\Demo\c#\UHFReader288Demo_eng V6.1\obj\x64\Release\UHFReader288Demo.csproj.ResolveComReference.cache
+D:\Nextwave industries\english\Demo\c#\UHFReader288Demo_eng V6.1\obj\x64\Release\UHFReader288Demo.ConfigForm.resources
+D:\Nextwave industries\english\Demo\c#\UHFReader288Demo_eng V6.1\obj\x64\Release\UHFReader288Demo.Form1.resources
+D:\Nextwave industries\english\Demo\c#\UHFReader288Demo_eng V6.1\obj\x64\Release\UHFReader288Demo.LoginForm.resources
+D:\Nextwave industries\english\Demo\c#\UHFReader288Demo_eng V6.1\obj\x64\Release\UHFReader288Demo.ChangeIPdlg.resources
+D:\Nextwave industries\english\Demo\c#\UHFReader288Demo_eng V6.1\obj\x64\Release\UHFReader288Demo.fNhSetDlg.resources
+D:\Nextwave industries\english\Demo\c#\UHFReader288Demo_eng V6.1\obj\x64\Release\UHFReader288Demo.fPhSetDlg.resources
+D:\Nextwave industries\english\Demo\c#\UHFReader288Demo_eng V6.1\obj\x64\Release\UHFReader288Demo.fSetdlg.resources
+D:\Nextwave industries\english\Demo\c#\UHFReader288Demo_eng V6.1\obj\x64\Release\UHFReader288Demo.locateForm.resources
+D:\Nextwave industries\english\Demo\c#\UHFReader288Demo_eng V6.1\obj\x64\Release\UHFReader288Demo.ParamSetting.resources
+D:\Nextwave industries\english\Demo\c#\UHFReader288Demo_eng V6.1\obj\x64\Release\UHFReader288Demo.Properties.Resources.resources
+D:\Nextwave industries\english\Demo\c#\UHFReader288Demo_eng V6.1\obj\x64\Release\UHFReader288Demo.csproj.GenerateResource.cache
+D:\Nextwave industries\english\Demo\c#\UHFReader288Demo_eng V6.1\obj\x64\Release\UHFReader288Demo.csproj.CoreCompileInputs.cache
+D:\Nextwave industries\english\Demo\c#\UHFReader288Demo_eng V6.1\obj\x64\Release\UHFReader288Demo.exe
+D:\Nextwave industries\english\Demo\c#\UHFReader288Demo_eng V6.1\obj\x64\Release\UHFReader288Demo.pdb
+D:\Nextwave industries\english\Demo\c#\UHFReader288Demo_eng V6.1\bin\x64\Release\UHFReader288Demo.exe.manifest
+D:\Nextwave industries\english\Demo\c#\UHFReader288Demo_eng V6.1\bin\x64\Release\UHFReader288Demo.application
+D:\Nextwave industries\english\Demo\c#\UHFReader288Demo_eng V6.1\bin\x64\Release\UHFReader288Demo.exe
+D:\Nextwave industries\english\Demo\c#\UHFReader288Demo_eng V6.1\bin\x64\Release\UHFReader288Demo.pdb
+D:\Nextwave industries\english\Demo\c#\UHFReader288Demo_eng V6.1\obj\x64\Release\UHFReader288Demo.exe.manifest
+D:\Nextwave industries\english\Demo\c#\UHFReader288Demo_eng V6.1\obj\x64\Release\UHFReader288Demo.application
+D:\Nextwave industries\english\Demo\c#\UHFReader288Demo_eng V6.1\obj\x64\Release\UHFReader288Demo.csproj.CopyComplete
+D:\Nextwave industries\english\Demo\c#\UHFReader288Demo_eng V6.1\bin\x64\Release\Microsoft.Office.Interop.Excel.dll
